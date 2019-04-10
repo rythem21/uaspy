@@ -34,7 +34,7 @@ class BaseApp:
         self.running = False
 
     def on_playing(self):
-        pass
+        self.check_collision(self.player, self.enemies)
 
     def stop(self):
         self.running = False
