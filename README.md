@@ -21,10 +21,13 @@ silakan tuliskan langkah-langkah disertai screenshotnya
 #langkah 6
 ![alt text](img/6.png)
 
-#Langkah 7 
-![alt text](img/7.png)
+#Langkah 7
+![alt text](img/9.png)
 
 #Langkah 8 
+![alt text](img/7.png)
+
+#Langkah 9 
 ![alt text](img/8.png)
 
 #Untuk Tools Requirementnya 
